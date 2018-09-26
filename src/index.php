@@ -15,8 +15,8 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple PHP App on Kubernetes</h1>
-                <h2>Congratulations. This is a test.</h2>
+                <h1>Simple PHP App on ECS and Kubernetes</h1>
+                <h2>Congratulations. The Horde is awesome!!</h2>
                 <p>Your PHP application is now running on a container in Amazon EKS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
